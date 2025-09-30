@@ -32,7 +32,8 @@
             android:exported="false" />
         <activity
             android:name="com.example.mycourse.MateriActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:theme="@style/Base.Theme.MyCourse" />
         <activity
             android:name="com.example.mycourse.MainActivity"
             android:exported="true" >

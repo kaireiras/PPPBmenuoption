@@ -1,22 +1,30 @@
 [
     {
-        "merged": "/home/kaireiras/.gradle/daemon/8.13/com.example.mycourse.app-mergeDebugResources-34:/layout/activity_materi.xml",
-        "source": "/home/kaireiras/.gradle/daemon/8.13/com.example.mycourse.app-main-37:/layout/activity_materi.xml"
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycourse.app-mergeDebugResources-34:/layout/fragment_home.xml",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycourse.app-main-37:/layout/fragment_home.xml"
     },
     {
-        "merged": "com.example.mycourse.app-mergeDebugResources-34:/layout/activity_quiz.xml",
-        "source": "com.example.mycourse.app-main-37:/layout/activity_quiz.xml"
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycourse.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycourse.app-main-37:/layout/activity_main.xml"
     },
     {
-        "merged": "/home/kaireiras/.gradle/daemon/8.13/com.example.mycourse.app-mergeDebugResources-34:/layout/activity_quiz.xml",
-        "source": "/home/kaireiras/.gradle/daemon/8.13/com.example.mycourse.app-main-37:/layout/activity_quiz.xml"
+        "merged": "com.example.mycourse.app-mergeDebugResources-34:/layout/materi_item.xml",
+        "source": "com.example.mycourse.app-main-37:/layout/materi_item.xml"
     },
     {
-        "merged": "/home/kaireiras/.gradle/daemon/8.13/com.example.mycourse.app-mergeDebugResources-34:/layout/activity_main.xml",
-        "source": "/home/kaireiras/.gradle/daemon/8.13/com.example.mycourse.app-main-37:/layout/activity_main.xml"
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycourse.app-mergeDebugResources-34:/layout/fragment_blank1.xml",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycourse.app-main-37:/layout/fragment_blank1.xml"
     },
     {
-        "merged": "com.example.mycourse.app-mergeDebugResources-34:/layout/activity_materi.xml",
-        "source": "com.example.mycourse.app-main-37:/layout/activity_materi.xml"
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycourse.app-mergeDebugResources-34:/layout/activity_materi.xml",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycourse.app-main-37:/layout/activity_materi.xml"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycourse.app-mergeDebugResources-34:/layout/activity_quiz.xml",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycourse.app-main-37:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycourse.app-mergeDebugResources-34:/layout/fragment_materi2.xml",
+        "source": "/Users/praktikan/.gradle/daemon/8.13/com.example.mycourse.app-main-37:/layout/fragment_materi2.xml"
     }
 ]
