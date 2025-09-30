@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable outline_add_home_24
+id action_home
+id action_materi
+id action_quiz
+id main
+layout activity_main
+layout activity_materi
+layout activity_quiz
+menu menu_option
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MyCourse
+style Base.Theme.MyCourse.WithActionBar
+style Theme.MyCourse
+style Theme.MyCourse.WithActionBar.
+xml backup_rules
+xml data_extraction_rules
